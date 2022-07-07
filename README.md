@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm MOONBI
 - 안녕하세요, 프론트앤드 개발자 문비입니다.
-----
 
 ### 🧬 Biologist
 - Bachelor course in Konkuk University, Republic of Korea, Biomedical Science & Engineering Department
@@ -37,6 +36,7 @@ Here are some ideas to get you started:
 - Design(Figma, Framer, Photoshop, Illustrator)
 - Writing, Presentation, Design
 
+---
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@bomrom97)](https://velog.io/@bomrom97) 
