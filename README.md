@@ -14,19 +14,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![MOONBI's github stats](https://github-readme-stats.vercel.app/api?username=windowrainYOON)](https://github.com/anuraghazra/github-readme-stats)
 -->
-### Biologist
+# Hi, I'm MOONBI
+- 안녕하세요, 프론트앤드 개발자 문비입니다.
+----
+
+### 🧬 Biologist
 - Bachelor course in Konkuk University, Republic of Korea, Biomedical Science & Engineering Department
 - M. D., ph.D integrated course in POSTECH, Republic of Korea, Molecular Genomic & Immunology lab
 
-### Designer
+### 🎨 Designer
 - UIUX Designer of aiNar (medicine intake assistan service) team
 - UIUX Designer of Lemusee web page rebranding team
 
-### Front-End Developer
+### 👨‍💻 Front-End Developer
 - Front-End Develper of FOOTSTEP team
 - FRONT-End Develper of Lemusee web page rebranding team
 
-### Interest
+### 😆 Interest
 - React, Vanilla JavaScript
 - Innate Cellular Immunity
 - Cellular localization
