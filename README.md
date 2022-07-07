@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **windowrainYOON/windowrainYOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MOONBI's github stats](https://github-readme-stats.vercel.app/api?username=windowrainYOON)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/windowrainYOON)](https://hits.seeyoufarm.com) 
@@ -47,5 +47,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/changmoonbi/)](https://www.instagram.com/changmoonbi/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckddn7806@gmail.com)](mailto:ckddn7806@gmail.com)
 </div>
+
+[![MOONBI's github stats](https://github-readme-stats.vercel.app/api?username=windowrainYOON)](https://github.com/anuraghazra/github-readme-stats)
 
 
