@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 [![MOONBI's github stats](https://github-readme-stats.vercel.app/api?username=windowrainYOON)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ### Biologist
 - Bachelor course in Konkuk University, Republic of Korea, Biomedical Science & Engineering Department
 - M. D., ph.D integrated course in POSTECH, Republic of Korea, Molecular Genomic & Immunology lab
