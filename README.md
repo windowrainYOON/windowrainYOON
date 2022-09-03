@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - FRONT-End Develper of Lemusee web page rebranding team
 
 ### 😆 Interest
-- React, Vanilla JavaScript
+- React, Vanilla JavaScript, TypeScript
 - Innate Cellular Immunity
 - Cellular localization
 - Design(Figma, Framer, Photoshop, Illustrator)
