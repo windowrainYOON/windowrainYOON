@@ -18,19 +18,20 @@ Here are some ideas to get you started:
 - 안녕하세요, 프론트앤드 개발자 문비입니다.
 
 ### 🧬 Biologist
-- Bachelor course in Konkuk University, Republic of Korea, Biomedical Science & Engineering Department
-- M. S., Ph.D. integrated course in POSTECH, Republic of Korea, Molecular Genomic & Immunology lab
+- B. E. | Konkuk University, Republic of Korea, Biomedical Science & Engineering Department
+- M. S., Ph.D. integrated course | POSTECH, Republic of Korea, Molecular Genomic & Immunology lab
 
 ### 🎨 Designer
 - UIUX Designer of aiNar (medicine intake assistan service) team
+- UIUX Designer of Odongdong service
 - UIUX Designer of Lemusee web page rebranding team
 
 ### 👨‍💻 Front-End Developer
 - Front-End Develper of FOOTSTEP team
-- FRONT-End Develper of Lemusee web page rebranding team
+- Front-End Develper of Lemusee web page rebranding team
 
 ### 😆 Interest
-- React, Vanilla JavaScript, TypeScript
+- React, JavaScript, TypeScript, Python Data analysis
 - Innate Cellular Immunity
 - Cellular localization
 - Design(Figma, Framer, Photoshop, Illustrator)
