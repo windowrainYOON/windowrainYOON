@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 🧬 Biologist
 - Bachelor course in Konkuk University, Republic of Korea, Biomedical Science & Engineering Department
-- M. D., ph.D integrated course in POSTECH, Republic of Korea, Molecular Genomic & Immunology lab
+- M. S., Ph.D. integrated course in POSTECH, Republic of Korea, Molecular Genomic & Immunology lab
 
 ### 🎨 Designer
 - UIUX Designer of aiNar (medicine intake assistan service) team
